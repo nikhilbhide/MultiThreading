@@ -1,5 +1,5 @@
-# MultiThreading
-This repository provides the examples for multithreading. 
+# Parallelism
+This repository provides the examples for multithreading and concurrency. 
 All of the common problems and applications are implemented in this repository using Java.
 Following examples are implemented - 
 1. Concurrency - Simple integer Vs Custom integer
